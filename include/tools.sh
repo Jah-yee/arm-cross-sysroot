@@ -41,7 +41,7 @@ FU_tools_is_error() {
 ##
 FU_tools_error() {
 
-	echo "faild"
+	echo "failed"
 	cat $GV_log_file
 
 	echo 
